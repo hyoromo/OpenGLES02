@@ -65,8 +65,8 @@ public class OpenGLES02 extends Activity {
             float[] vertices = {
                     -0.5f, -0.5f, 0.0f,
                      0.5f, -0.5f, 0.0f,
-                     -0.5f, 0.5f, 0.0f,
-                      0.5f, 0.5f, 0.0f
+                    -0.5f,  0.5f, 0.0f,
+                     0.5f,  0.5f, 0.0f
             };
 
             // テクスチャの頂点設定
